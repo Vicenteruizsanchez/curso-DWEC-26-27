@@ -1,0 +1,13 @@
+{
+  "name": "_tema_introduccion",
+  "version": "1.0.0",
+  "description": "Teoria y ejemplo basico",
+  "license": "ISC",
+  "author": "Vicente Ruiz",
+  "type": "module",
+  "main": "ejercicio01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lanzar": "node ejercicio01.js"
+  }
+}
