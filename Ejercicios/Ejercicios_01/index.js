@@ -8,7 +8,7 @@ function ceslsiusToKoelvin01 (celsius){
 
 
 // Funcióm arrow (Solo cuendo hay una unica linea, en caso contrario con corchetes)
-const celsiusToKelvin02 = (celsius) => return celsius + 273.15
+const celsiusToKelvin02 = (celsius) =>  celsius + 273.15
 
 // EJERCICIO
 // Función que le pase por parámetro 2 números y que los ordene.
